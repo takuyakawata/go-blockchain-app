@@ -15,6 +15,7 @@ func main() {
 		fmt.Println("  4 - Blockchain with CLI Interface")
 		fmt.Println("  5 - Blockchain with Wallet System")
 		fmt.Println("  6 - Blockchain with Transactions and UTXO")
+		fmt.Println("  7 - Blockchain with P2P Network Layer")
 		return
 	}
 
@@ -33,8 +34,10 @@ func main() {
 		RunBlockchainFive()
 	case "6":
 		RunBlockchainSix()
+	case "7":
+		runBlockchainSeven()
 	default:
 		fmt.Printf("Unknown pattern: %s\n", pattern)
-		fmt.Println("Available patterns: 1, 2, 3, 4, 5, 6")
+		fmt.Println("Available patterns: 1, 2, 3, 4, 5, 6, 7")
 	}
 }
