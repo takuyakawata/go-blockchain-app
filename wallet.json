@@ -10,5 +10,11 @@
     "private_key_x": "CJ2naIUFsQ8Y86NG8+Oag+ea8a8hnjy2nA/9TwawOQo=",
     "private_key_y": "GjBZHkSR/A+Yn3RP76MMWpQMPRXS+cTOJM71hJSpKj8=",
     "public_key": "CJ2naIUFsQ8Y86NG8+Oag+ea8a8hnjy2nA/9TwawOQoaMFkeRJH8D5ifdE/vowxalAw9FdL5xM4kzvWElKkqPw=="
+  },
+  "1JKXY6edAinmW78GC9qkiBMnauYccVNXDd": {
+    "private_key_d": "Kieb8sa6G1+JGkAu84CEI+NPYu/G+B/IXWb3sJAE3e8=",
+    "private_key_x": "bEd9Dq7FKGfFtJtNFexfc9VKS+OQSpfJQJv2IYPdXE0=",
+    "private_key_y": "b6v/L8+BF0CCi+RsjQ1YUxwieiWo82bLJWBrBrYeKVE=",
+    "public_key": "bEd9Dq7FKGfFtJtNFexfc9VKS+OQSpfJQJv2IYPdXE1vq/8vz4EXQIKL5GyNDVhTHCJ6JajzZsslYGsGth4pUQ=="
   }
 }
